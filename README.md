@@ -1,1 +1,1 @@
-# Scatterplot-Graph
+# FreeCodeCamp's project Scatterplot-Graph
