@@ -1,0 +1,22 @@
+body {
+  background-image: url(https://im0-tub-by.yandex.net/i?id=a7b1edfe5e26673d1a392fa3144c012a-l&n=13);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+#graph {
+  text-align: center;
+}
+svg {
+  background-color: #fff;
+  opacity: .8
+}
+.tooltip {
+  background-color: green;
+  text-align: center;
+  position: absolute;
+  padding: 5px;
+  border-radius: 3px;
+}
+.graphCircle:hover {
+  stroke: black;
+}
